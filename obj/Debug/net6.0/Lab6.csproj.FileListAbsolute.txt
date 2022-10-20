@@ -1,0 +1,15 @@
+/Users/brendandalhover/Projects/Lab6/Lab6/bin/Debug/net6.0/Lab6
+/Users/brendandalhover/Projects/Lab6/Lab6/bin/Debug/net6.0/Lab6.deps.json
+/Users/brendandalhover/Projects/Lab6/Lab6/bin/Debug/net6.0/Lab6.runtimeconfig.json
+/Users/brendandalhover/Projects/Lab6/Lab6/bin/Debug/net6.0/Lab6.dll
+/Users/brendandalhover/Projects/Lab6/Lab6/bin/Debug/net6.0/Lab6.pdb
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.csproj.AssemblyReference.cache
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.AssemblyInfoInputs.cache
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.AssemblyInfo.cs
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.dll
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/refint/Lab6.dll
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.pdb
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/Lab6.genruntimeconfig.cache
+/Users/brendandalhover/Projects/Lab6/Lab6/obj/Debug/net6.0/ref/Lab6.dll
